@@ -4,5 +4,7 @@ https://github.com/waylau/git-for-win
 https://www.52pojie.cn/forum.php?mod=viewthread&tid=822434&page=1&authorid=994109
 #程序请求头测试网址
 https://httpbin.org/get?show_env=1
-#anaconda清华大学下载地址
+#anaconda清华大学下载地址,2019年4月19日之后不再更新
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
+#浏览器信息检测[目前已知:过不了携程]
+https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html
