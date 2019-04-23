@@ -8,3 +8,6 @@ https://httpbin.org/get?show_env=1
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 #浏览器信息检测[目前已知:过不了携程]
 https://intoli.com/blog/not-possible-to-block-chrome-headless/chrome-headless-test.html
+#twisted.whl下载地址[安装scrapy报错时]
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+
